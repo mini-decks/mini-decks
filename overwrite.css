@@ -1,0 +1,36 @@
+body{
+    /* background: #000482; */
+    background: #24272c
+}
+/* Use #24272c for dark mode. */
+#maintitle{
+    color: #ffff;
+}
+#bk{
+    color: #3d619b;
+}
+
+#bkdef{
+    text-align: center;
+}
+#bkinfo{
+    color: rgb(255, 255, 255);
+    text-size-adjust: 100;
+    padding-left: 5%;
+}
+#BkAn{
+    color: #3d619b;
+}
+a{
+    text-decoration: none;
+}
+.heroname{
+    font-size: 175%;
+    padding-left: 4%;
+}
+#bkpica{
+    padding-left: 2%;
+}
+#bksec{
+    float: left;
+}
